@@ -6,5 +6,5 @@ Sounds has the same sounds in mp3 format.
 
 Sprites contains sprites for the base 905 pokemon and some alternate forms.
 pokemon.py contains an old currently nofunctional version of the program.
-TO run the program, in the terminal, navigate to the simple-pokedex folder and run
+To run the program, in the terminal, navigate to the simple-pokedex folder and run
 python Pokedex.py
